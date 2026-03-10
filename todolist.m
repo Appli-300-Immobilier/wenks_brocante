@@ -4,11 +4,11 @@
 - **Company Name:** Wenks brocante
 - **Directory:** wenks_brocante
 - **Address/Contact:** 
-  - abidjan angre chateau, Abidjan, C�te d'Ivoire, 1973
+  - abidjan angre chateau, Abidjan, Céte d'Ivoire, 1973
   - Liens
   - 
   - wenksbrocante.com
-  - Coordonn�es
+  - Coordonnées
   - 
   - +225 59 91 92 10
   - 
